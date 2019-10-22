@@ -143,7 +143,7 @@
     "universal-webpack": "^0.4.0",
     "url-loader": "^0.6.2",
     "webpack": "^3.11.0",
-    "webpack-bundle-analyzer": "^2.9.1",
+    "webpack-bundle-analyzer": "^3.3.2",
     "webpack-dev-server": "^2.9.7",
     "webpack-hot-middleware": "^2.21.0",
     "webpack-merge": "^4.1.1"
